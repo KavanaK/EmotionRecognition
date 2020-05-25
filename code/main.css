@@ -18,16 +18,24 @@ float: right;
     right: 750px;
     /*transform: translate(-250px,0,0,-750px);*/
 }
-.material-icons{
+.icons{
     position: absolute;
     width: 100px;
     height: auto;
-    top: 600px;
+    top: 650px;
     right: 750px;
    color: #e94073;
 
 }
-.material-icons.md-48 { font-size: 48px; }
+
+
+.material-icons.md-100 { font-size: 100px;
+    color: #e94073;
+}
+.material-icons.md-18{
+    font-size: 18px;
+}
+
 .content  {
     position: absolute;
     top: 250px;
